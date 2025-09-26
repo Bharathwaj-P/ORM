@@ -38,7 +38,7 @@ admin.py
 from django.contrib import admin
 from.models import car_DB,car_DB_Admin
 admin.site.register(car_DB,car_DB_Admin)
-
+```
 
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/eee76c5c-ab65-4cc1-9084-c02e30a87844" />
